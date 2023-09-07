@@ -13,3 +13,6 @@ Code snippet here
 2. Clone :alien:
 3. Cry :cry:
 4. Sleep :smile:
+5. Wake up
+6. Eat :hamburger:
+7. Poop :poop:
